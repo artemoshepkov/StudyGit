@@ -8,5 +8,6 @@ namespace StudyGit
 {
     internal class Class1
     {
+        // changes
     }
 }
